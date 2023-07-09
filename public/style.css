@@ -1,0 +1,52 @@
+.b{
+    margin-left:500px;
+  }
+  
+  .image-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  #heading{
+    color: white;
+  }
+
+  .class-color{
+    color: white;
+  }
+  
+  input[type="text"], select {
+    margin-bottom: 10px;
+  }
+   .bcolor{
+    border-color: white;
+}
+  button {
+    margin-bottom: 10px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  footer {
+    margin-top: 2em;
+    color: #ccc; 
+  }
+
+  .horizontal_line {
+    background-color: white;
+    width: 90%;
+    height: 5px;
+    
+}
